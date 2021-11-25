@@ -1,0 +1,19 @@
+Match 28 SRH v RR
+
+
+BatTeam = 'Sunrisers Hyderabad'
+HomeTeam = 'Sunrisers Hyderabad'
+Team2 = 'RR'
+ 
+Batsmen = [AD Hales, S Dhawan, KS Williamson, MK Pandey, Shakib Al Hasan, YK Pathan, WP Saha, Rashid Khan, Basil Thampi, Sandeep Sharma, S Kaul]
+Bowlers =  [K Gowtham, DS Kulkarni, JC Archer, JD Unadkat, IS Sodhi, BA Stokes, MK Lomror]
+Overs = [K Gowtham, DS Kulkarni, K Gowtham, DS Kulkarni, JC Archer,JD Unadkat, IS Sodhi, BA Stokes, IS Sodhi, BA Stokes, MK Lomror,JD Unadkat,JC Archer, K Gowtham, IS Sodhi, K Gowtham, BA Stokes,JC Archer, JD Unadkat,JC Archer]
+
+
+BatTeam = 'Rajasthan Royals'
+HomeTeam = 'Sunrisers Hyderabad'
+Team2 = 'SRH'
+
+Batsmen = [AM Rahane,RA Tripathi,SV Samson,BA Stokes,JC Buttler,MK Lomror,K Gowtham,JC Archer,DS Kulkarni,IS Sodhi,JD Unadkat]
+Bowlers = [Sandeep Sharma, Shakib Al Hasan, Basil Thampi, S Kaul, Rashid Khan, YK Pathan]
+Overs = [Sandeep Sharma, Shakib Al Hasan,Sandeep Sharma, Basil Thampi,Sandeep Sharma,S Kaul,Shakib Al Hasan, Rashid Khan,Shakib Al Hasan, S Kaul,YK Pathan, Shakib Al Hasan,YK Pathan, Rashid Khan,Sandeep Sharma, Rashid Khan,S Kaul, Rashid Khan, Basil Thampi]

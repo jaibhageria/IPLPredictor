@@ -1,0 +1,26 @@
+match 26 
+
+
+
+
+BatTeam = 'Delhi Daredevils'
+HomeTeam = 'Delhi Daredevils'
+Team2 = 'KKR'
+  
+Batsmen=["PP Shaw", "C Munro" , "SS Iyer","RR Pant", "GJ Maxwell","V Shankar", "R Tewatia", "LE Plunkett", "A Mishra", "Avesh Khan", "TA Boult" ]
+
+Bowlers = ["PP Chawla", "Kuldeep Yadav", "Shivam Mavi", "SP Narine", "MG Johnson", "AD Russell"]
+
+Order= ["PP Chawla", "Kuldeep Yadav", "PP Chawla", "Shivam Mavi", "SP Narine", "MG Johnson", "Shivam Mavi","AD Russell","MG Johnson","SP Narine","AD Russell",
+","Kuldeep Yadav","MG Johnson","PP Chawla","AD Russell","PP Chawla","Shivam Mavi","SP Narine","MG Johnson","Shivam Mavi"]
+
+
+BatTeam = 'Kolkata Knight Riders'
+HomeTeam = 'Delhi Daredevils'
+Team2 = 'DD'
+ 
+Batsmen = ["CA Lynn","SP Narine", "RV Uthappa","N Rana","KD Karthik","Shubamn Grill","AD Russell","Shivam Mavi","PP Chawla","MG Johnson","Kuldeep Yadav"]
+
+Bowlers = ["TA Boult", "GJ Maxwell", "Avesh Khan", "LE Plunkett", "A Mishra", "V Shankar", "R Tewatia"]
+
+Order =["TA Boult","GJ Maxwell","TA Boult","Avesh Khan","LE Plunkett","Avesh Khan","LE Plunkett","A Mishra","V Shankar","A Mishra","LE Plunkett","Avesh Khan","TA Boult","A Mishra","R Tewatia","A Mishra","LE Plunkett","Avesh Khan","GJ Maxwell","TA Boult"]

@@ -1,0 +1,23 @@
+#match 31
+
+BatTeam = 'Royal Challengers Bangalore'
+
+HomeTeam = 'Royal Challengers Bangalore'
+
+Team2 = 'MI'
+
+Batsmen = ['M Vohra','Q de Kock','BB McCullum','V Kohli','AB de Villiers','C de Grandhomme','Washington Sundar','TG Southee','UT Yadav','YS Chahal','Mohammed Siraj']
+
+Bowlers = ['JP Duminy','MJ McClenaghan','JJ Bumrah','KH Pandya','HH Pandya','M Markande']
+
+Overs = ['JP Duminy','MJ McClenaghan','JJ Bumrah','JP Duminy','MJ McClenaghan','KH Pandya','M Markande','KH Pandya','M Markande','HH Pandya','KH Pandya','M Markande','KH Pandya','JJ Bumrah','MJ McClenaghan','HH Pandya','JJ Bumrah','HH Pandya','JJ Bumrah','MJ McClenaghan']
+
+
+BatTeam = 'Mumbai Indians'
+HomeTeam = 'Royal Challengers Bangalore'
+Team2 = 'RCB'
+
+Batsmen = ['SA Yadav','Ishan Kishan','JP Duminy','RG Sharma','KA Pollard','KH Pandya','HH Pandya','BCJ Cutting','MJ McClenaghan','M Markande','JJ Bumrah']
+Bowlers = ['TG Southee','UT Yadav','Mohammed Siraj','YS Chahal','Washington Sundar','C de Grandhomme']
+Overs = ['TG Southee','UT Yadav','TG Southee','UT Yadav','Mohammed Siraj','UT Yadav','YS Chahal','Mohammed Siraj','YS Chahal','Washington Sundar','YS Chahal','C de Grandhomme','YS Chahal','C de Grandhomme','UT Yadav','C de Grandhomme','Mohammed Siraj','TG Southee','Mohammed Siraj','TG Southee']
+

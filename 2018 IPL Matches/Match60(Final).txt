@@ -1,0 +1,31 @@
+
+
+Final
+
+
+
+
+
+#Inn1
+
+BatTeam = 'Sunrisers Hyderabad'
+Team2 = 'CSK'
+HomeTeam = 'Chennai Super Kings'
+
+Overs = ['DL Chahar','L Ngidi','DL Chahar','L Ngidi','DL Chahar','SN Thakur','KV Sharma','DJ Bravo','RA Jadeja','DL Chahar','RA Jadeja','DJ Bravo','KV Sharma','SN Thakur','KV Sharma','DJ Bravo','L Ngidi','DJ Bravo','L Ngidi','SN Thakur']
+
+Bowlers = ['DL Chahar','L Ngidi','SN Thakur','KV Sharma','DJ Bravo','RA Jadeja']
+
+Batsmen = ['SP Goswami','S Dhawan','KS Williamson','Shakib Al Hasan','DJ Hooda','CR Brathwaite','Rashid Khan','B Kumar','S Kaul','Sandeep Sharma']
+
+
+BatTeam = 'Chennai Super Kings'
+Team2 = 'SRH'
+HomeTeam = 'Chennai Super Kings'
+
+
+Overs = ['B Kumar','Sandeep Sharma','B Kumar','Sandeep Sharma','B Kumar','Sandeep Sharma','S Kaul','Rashid Khan','S Kaul','Rashid Khan','Shakib Al Hasan','CR Brathwaite','Sandeep Sharma','CR Brathwaite','Rashid Khan','B Kumar','Rashid Khan','S Kaul','CR Brathwaite','S Kaul']
+Bowlers = ['B Kumar','Sandeep Sharma','S Kaul','Rashid Khan','Shakib Al Hasan','CR Brathwaite']
+Batsmen = ['SR Watson','F du Plessis','SK Raina','AT Rayudu','MS Dhoni','DJ Bravo','RA Jadeja','DL Chahar','KV Sharma','SN Thakur','L Ngidi']
+
+

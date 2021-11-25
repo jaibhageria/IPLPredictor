@@ -1,0 +1,23 @@
+
+
+
+BatTeam = 'Sunrisers Hyderabad'
+Team2 = 'CSK'
+HomeTeam = 'Chennai Super Kings'
+
+
+Batsmen = ['S Dhawan','SP Goswami','KS Williamson','MK Pandey','Shakib Al Hasan','YK Pathan','CR Brathwaite','B Kumar','Rashid Khan','S Kaul','Sandeep Sharma']
+Bowlers = ['DL Chahar','L Ngidi','SN Thakur','DJ Bravo','RA Jadeja']
+Overs = ['DL Chahar','L Ngidi','DL Chahar','L Ngidi','SN Thakur','DL Chahar','DJ Bravo','RA Jadeja','DJ Bravo','RA Jadeja','DL Chahar','RA Jadeja','SN Thakur','RA Jadeja','DJ Bravo','L Ngidi','DJ Bravo','SN Thakur','L Ngidi','SN Thakur']
+
+
+BatTeam = 'Chennai Super Kings'
+Team2 = 'SRH'
+HomeTeam = 'Chennai Super Kings'
+
+
+#Inn2
+
+Batsmen= ['SR Watson','F du Plessis','SK Raina','AT Rayudu','MS Dhoni','DJ Bravo','RA Jadeja','DL Chahar','Harbhajan Singh','SN Thakur','L Ngidi']
+Bowlers = ['B Kumar','Sandeep Sharma','S Kaul','CR Brathwaite','Rashid Khan','Shakib Al Hasan']
+Overs = ['B Kumar','Sandeep Sharma','B Kumar','S Kaul','B Kumar','S Kaul','CR Brathwaite','Rashid Khan','CR Brathwaite','Rashid Khan','Shakib Al Hasan','Rashid Khan','Sandeep Sharma','Shakib Al Hasan','Sandeep Sharma','Rashid Khan','S Kaul','CR Brathwaite','S Kaul','B Kumar']

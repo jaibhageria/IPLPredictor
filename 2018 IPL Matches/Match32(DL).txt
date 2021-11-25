@@ -1,0 +1,27 @@
+#match 32
+
+BatTeam = 'Delhi Daredevils'
+HomeTeam = 'Delhi Daredevils'
+
+Team2 = 'RR'
+
+
+Batsmen = ['PP Shaw','C Munro','SS Iyer','RR Pant','GJ Maxwell','V Shankar','LE Plunkett','A Mishra','S Nadeem','Avesh Khan','TA Boult']
+
+Bowlers = ['DS Kulkarni','JC Archer','K Gowtham','JD Unadkat','S Gopal','BA Stokes']
+
+Overs = ['DS Kulkarni','JC Archer','DS Kulkarni','K Gowtham','JD Unadkat','S Gopal','BA Stokes','S Gopal','BA Stokes','JC Archer','JD Unadkat','K Gowtham','DS Kulkarni','BA Stokes','JD Unadkat','JC Archer','JD Unadkat']
+
+
+BatTeam = 'Rajasthan Royals'
+
+HomeTeam = 'Delhi Daredevils'
+
+Team2 = 'DD'
+
+Batsmen = ['DJM Short','JC Buttler','SV Samson','BA Stokes','RA Tripathi','K Gowtham','JC Archer','AM Rahane','JD Unadkat','DS Kulkarni','S Gopal']
+
+Bowlers = ['S Nadeem','TA Boult','Avesh Khan','LE Plunkett','A Mishra','GJ Maxwell']
+
+Overs = ['S Nadeem','TA Boult','Avesh Khan','LE Plunkett','A Mishra','Avesh Khan','A Mishra','LE Plunkett','TA Boult','GJ Maxwell','LE Plunkett','TA Boult']
+

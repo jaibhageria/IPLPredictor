@@ -1,0 +1,15 @@
+Match 1: MI(H) vs CSK
+
+BatTeam = 'Mumbai Indians'
+Team2 = 'CSK'
+HomeTeam = 'Mumbai Indians'
+Batsmen = ['RG Sharma','E Lewis','Ishan Kishan','SA Yadav','HH Pandya','KH Pandya','KA Pollard','JJ Bumrah','MJ McClenaghan','Mustafizur Rahman','M Markande']
+Bowlers = ['DL Chahar','SR Watson','Harbhajan Singh','RA Jadeja','MA Wood','Imran Tahir','DJ Bravo']
+Order = ['DL Chahar','SR Watson','DL Chahar','SR Watson','DL Chahar','SR Watson','Harbhajan Singh','RA Jadeja','Harbhajan Singh','MA Wood','Imran Tahir','DJ Bravo','SR Watson','MA Wood','Imran Tahir','DJ Bravo','MA Wood','DJ Bravo','MA Wood','DJ Bravo']
+
+BatTeam = 'Chennai Super Kings'
+Team2 = 'MI'
+HomeTeam = 'Mumbai Indians'
+Batsmen = ['SR Watson','AT Rayudu','SK Raina','KM Jadhav','MS Dhoni','RA Jadeja','DJ Bravo','DL Chahar','Harbhajan Singh','MA Wood','Imran Tahir']
+Bowlers = ['MJ McClenaghan','Mustafizur Rahman','JJ Bumrah','HH Pandya','M Markande']
+Order = ['MJ McClenaghan','Mustafizur Rahman','JJ Bumrah','HH Pandya','MJ McClenaghan','HH Pandya','M Markande','JJ Bumrah','M Markande','HH Pandya','M Markande','Mustafizur Rahman','M Markande','Mustafizur Rahman','MJ McClenaghan','JJ Bumrah','HH Pandya','MJ McClenaghan','JJ Bumrah','Mustafizur Rahman']

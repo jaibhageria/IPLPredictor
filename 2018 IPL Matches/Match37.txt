@@ -1,0 +1,22 @@
+match 37
+Team1="Mumbai Indians"
+Team2="Kolkata Knight Riders"
+
+HomeTeam = 'Mumbai Indians"
+BatTeam = 'Mumbai Indians'
+Team2 = 'KKR'
+
+ 
+Batsmen=["SA Yadav","E Lewis","RG Sharma","HH Pandya","KH Pandya","JP Duminy","Ishan Kishan","BCJ Cutting", "MJ McClenaghan", "M Markande", "JJ Bumrah"]
+Bowlers = ['N Rana', 'M Prasidh Krishna', 'MG Johnson', 'SP Narine', 'PP Chawla', 'Kuldeep Yadav', 'AD Russell']
+Overs=["N Rana","M Prasidh Krishna","MG Johnson","SP Narine","M Prasidh Krishna","PP Chawla","Kuldeep Yadav","N Rana","Kuldeep Yadav","AD Russell","PP Chawla","SP Narine","PP Chawla","MG Johnson","AD Russell","M Prasidh Krishna","SP Narine","MG Johnson","SP Narine","M Prasidh Krishna"]
+
+
+HomeTeam = 'Mumbai Indians"
+BatTeam = 'Kolkata Knight Riders'
+Team2 = 'MI' 
+
+
+Batsmen=["CA Lynn","Shubman Grill","RV Uthappa","N Rana","KD Karthik","AD Russell","SP Narine","PP Chawla","MG Johnson", "M Prasidh Krishna", "Kuldeep Yadav"]
+Bowlers = ['MJ McClenaghan', 'JJ Bumrah', 'HH Pandya', 'KH Pandya', 'M Markande', 'BCJ Cutting']
+Overs = ["MJ McClenaghan","JJ Bumrah","MJ McClenaghan","HH Pandya","MJ McClenaghan","HH Pandya","KH Pandya","M Markande","KH Pandya","BCJ Cutting","JJ Bumrah", "BCJ Cutting","M Markande","HH Pandya","MJ McClenaghan","M Markande","JJ Bumrah","HH Pandya","JJ Bumrah","KH Pandya"]

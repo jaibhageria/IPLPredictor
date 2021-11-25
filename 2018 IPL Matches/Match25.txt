@@ -1,0 +1,17 @@
+Match 25
+
+BatTeam = 'Sunrisers Hyderabad'
+HomeTeam = 'Sunrisers Hyderabad'
+Team2: 'KXIP'
+
+Batsmen = ['S Dhawan','KS Williamson','WP Saha','MK Pandey','Shakib Al Hasan','YK Pathan','Mohammad Nabi','Rashid Khan','Basil Thampi','S Kaul','Sandeep Sharma']
+Bowlers = ['AS Rajpoot','BB Sran','R Ashwin','MK Tiwary','Mujeeb Ur Rahman','AJ Tye']
+Overs = ['AS Rajpoot','BB Sran','AS Rajpoot','BB Sran','AS Rajpoot','BB Sran','R Ashwin','MK Tiwary','R Ashwin','Mujeeb Ur Rahman','AJ Tye','Mujeeb Ur Rahman','AJ Tye','Mujeeb Ur Rahman','R Ashwin','Mujeeb Ur Rahman','AJ Tye','R Ashwin','AJ Tye','AS Rajpoot']
+
+BatTeam = 'Kings XI Punjab'
+Team2 = 'SRH'
+HomeTeam = 'Sunrisers Hyderabad'
+
+Batsmen = ['KL Rahul','CH Gayle','MA Agarwal','KK Nair','AJ Finch','MK Tiwary','R Ashwin','AJ Tye','BB Sran','AS Rajpoot','Mujeeb Ur Rahman']
+Bowlers = ['Sandeep Sharma','Mohammad Nabi','S Kaul','Basil Thampi','Rashid Khan','Shakib Al Hasan']
+Overs = ['Sandeep Sharma','Mohammad Nabi','Sandeep Sharma','Mohammad Nabi','Sandeep Sharma','S Kaul','Basil Thampi','Rashid Khan','Basil Thampi','Shakib Al Hasan','S Kaul','Rashid Khan','Shakib Al Hasan','Rashid Khan','Shakib Al Hasan','Sandeep Sharma','S Kaul','Rashid Khan','S Kaul','Basil Thampi']

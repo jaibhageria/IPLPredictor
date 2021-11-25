@@ -1,0 +1,18 @@
+Match 22
+
+
+
+BatTeam = 'Kings XI Punjab'
+Team2: 'DD'
+HomeTeam = 'Delhi Daredevils'
+
+Batsmen = ['KL Rahul','AJ Finch','MA Agarwal','KK Nair','Yuvraj Singh','DA Miller','R Ashwin','AJ Tye','BB Sran','AS Rajpoot','Mujeeb Ur Rahman']
+Overs = ['TA Boult','Avesh Khan','TA Boult','Avesh Khan','LE Plunkett','Avesh Khan','DT Christian','LE Plunkett','DT Christian','A Mishra','GJ Maxwell','A Mishra','Avesh Khan','A Mishra','R Tewatia','A Mishra','LE Plunkett','DT Christian','LE Plunkett','TA Boult']
+Bowlers = ['TA Boult','Avesh Khan','LE Plunkett','DT Christian','A Mishra','GJ Maxwell','R Tewatia']
+
+BatTeam = 'Delhi Daredevils'
+Team2 = 'KXIP'
+HomeTeam = 'Delhi Daredevils'
+Batsmen = ['PP Shaw','G Gambhir','GJ Maxwell','SS Iyer','RR Pant','DT Christian','R Tewatia','LE Plunkett', 'A Mishra','Avesh Khan','TA Boult']
+Bowlers = ['AS Rajpoot','BB Sran','AJ Tye','R Ashwin','Mujeeb Ur Rahman']
+Overs = ['AS Rajpoot','BB Sran','AS Rajpoot','AJ Tye','AS Rajpoot','AJ Tye','AS Rajpoot','R Ashwin','Mujeeb Ur Rahman','R Ashwin','Mujeeb Ur Rahman','R Ashwin','BB Sran','R Ashwin','Mujeeb Ur Rahman','AJ Tye','BB Sran','AJ Tye','BB Sran','Mujeeb Ur Rahman']
